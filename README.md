@@ -30,14 +30,14 @@ Plain text ASCII banners.
 
 Formatted banners for the /etc/issue file.
 
-This file defines what message is displayed before the tty login prompt and you can make it show colored ASCII art :)
+This file defines what message is displayed before the tty login prompt and you can make it show colored ASCII art :)  
 https://www.man7.org/linux/man-pages/man5/issue.5.html
 
 ## Figlet fonts
 
 Fonts for figlet.
 
-Figlet is a CLI tool for making ASCII banners. More info here :
+Figlet is a CLI tool for making ASCII banners. More info here :  
 https://github.com/cmatsuoka/figlet
 
 - 🚧 **tubes** : I'm trying to modify my /etc/issue banner into a full figlet font so I can use it to print something else than "archlinux" 😅
