@@ -5,7 +5,7 @@ ASCII art I made. CC0, feel free to use.
 - 🔜 *[Logos (Unformatted)](#logos-unformatted)*
 - 🔜 *[Logos (Neofetch)](#logos-neofetch)*
 - ⏳ *[Logos (Fastfetch)](#logos-fastfetch)*
-- 🔜 *[Banners (Unformatted)](#banners-unformatted)*
+- ✅ [Banners (Unformatted)](#banners-unformatted)
 - ✅ [Banners (/etc/issue)](#banners-etcissue)
 - 🚧 [Figlet fonts](#figlet-fonts)
 - ⏳ *[Cowsays animals](#cowsays-animals)*
@@ -24,7 +24,7 @@ ASCII art I made. CC0, feel free to use.
 
 ## Banners (Unformatted)
 
-🔜 Not added yet.
+Plain text ASCII banners.
 
 ## Banners (/etc/issue)
 
