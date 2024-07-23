@@ -2,48 +2,55 @@
 
 ASCII art I made. CC0, feel free to use.
 
+- [Banners (Unformatted)](#banners-unformatted)
+- [Banners (Formatted)](#banners-formatted)
+- [Figlet fonts](#figlet-fonts)
+
+Upcoming :
 - 🔜 *[Logos (Unformatted)](#logos-unformatted)*
 - 🔜 *[Logos (Neofetch)](#logos-neofetch)*
 - ⏳ *[Logos (Fastfetch)](#logos-fastfetch)*
-- ✅ [Banners (Unformatted)](#banners-unformatted)
-- ✅ [Banners (/etc/issue)](#banners-etcissue)
-- 🚧 [Figlet fonts](#figlet-fonts)
 - ⏳ *[Cowsays animals](#cowsays-animals)*
-
-## Logos (Unformatted)
-
-🔜 Done but not added to the repo yet.
-
-## Logos (Neofetch)
-
-🔜 Done but not added to the repo yet.
-
-## Logos (Fastfetch)
-
-⏳ Still working on them. Not added yet.
 
 ## Banners (Unformatted)
 
-Plain text ASCII banners.
+Plain text unformatted ASCII banners.
 
-## Banners (/etc/issue)
+## Banners (Formatted)
 
-Formatted banners for the /etc/issue file.
+ASCII banners formatted with ANSI escape characters.
 
-This file defines what message is displayed before the tty login prompt and you can make it show colored ASCII art :)  
-https://www.man7.org/linux/man-pages/man5/issue.5.html
+Usable anywhere that supports ASCII with ANSI escape characters.
+Ex for ricing :
+- `/etc/issue` file *(defines what message is displayed before the tty login prompt)*
+- `/etc/issue.net`
+
+To preview the formatted banners in your terminal, you can't just use `cat` on the file because of the escape characters. Instead run this command :
+```
+printf "%b" "$(cat path-to-file)" 
+```
+Or you can use this script :
+1. Download (this script)[https://github.com/Phantomwise/ascii/blob/main/preview-formatted-ascii.sh]
+2. Make it executable
+```
+chmod +x preview-formatted-ascii.sh
+```
+3. Run it with the path to the file as an argument  
+For example, to preview the file with the Arch Linux banner, download the script and the file containing the banner, then run :
+```
+bash preview-formatted-ascii.sh arch-tubes-banner-1-formatted
+```
 
 ## Figlet fonts
 
 Fonts for figlet.
 
+You can see what they look like here :
+https://github.com/Phantomwise/ascii/blob/main/figfonts/figfonts-preview.md
+Though keep in mind that they'll look better in a terminal than in a code block because you won't see the gaps between the lines.
+
 Figlet is a CLI tool for making ASCII banners. More info here :  
 https://github.com/cmatsuoka/figlet
-
-- 🚧 **tubes** : I'm trying to modify my /etc/issue banner into a full figlet font so I can use it to print something else than "archlinux" 😅
-    - ✅ Done: lowercase letters, basic punctuation .,;:!'"_-+*
-    - 🚧 WIP: uppercase letters
-    - ⏳ Missing for now: extended punctuation, special characters*
 
 How to use :
 1. Install figlet.
@@ -61,7 +68,20 @@ showfigfonts
 
 Other really cool figlet fonts :
 https://github.com/xero/figlet-fonts
+(Look for the 'example' file linked in the readme to preview all of them at once)
+
+## Logos (Unformatted)
+
+🔜 Not added to the repo yet, I can't remember on which USB stick I put them and I have like a thousand of them -__-
+
+## Logos (Neofetch)
+
+🔜 Not added to the repo yet, I can't remember on which USB stick I put them and I have like a thousand of them -__-
+
+## Logos (Fastfetch)
+
+⏳ Still working on them. Not added yet.
 
 ## Cowsays animals
 
-🚧 WIP. Not added to the repo yet.
+⏳ Not finished. Not added yet, I might have list the files...
