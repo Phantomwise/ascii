@@ -42,7 +42,7 @@
 
 
 ### Mint banner : Tubes font, Regular Narrow, Border 1, Formatted ###
-                   ╖                
+                   ╓                
 ╖                  ║ ╔═╦═╗       ╖  
 ║   °              ║ ║ ║ ║ °     ║  
 ║   ╖ ╔═╗ ╖ ╓ ╒╗╔╕ ║ ║ ║ ║ ╖ ╔═╗ ╠╛ 
@@ -74,7 +74,7 @@
 ║ ╚═╛ ╙ ╜ ╙ ╚═╝ ╘╝╚╛  ╜ ╙ ║ ╙ ╜ ╙ ╨  ║
 ╚═════════════════════════╝ ╘════════╝
 ### Mint banner : Tubes font, Cursive Narrow, Border 1, Formatted ###
-                  ╖                
+                  ╓                
 ╖                 ║ ╔═╦═╗       ╖  
 ║  °              ║ ║ ║ ║ °     ║  
 ║  ╖ ╔═╗ ╖ ╓ ╒╗╔╕ ║ ║ ║ ║ ╖ ╔═╗ ╠╛ 
