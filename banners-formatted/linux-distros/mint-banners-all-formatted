@@ -1,5 +1,5 @@
 ### Mint banner : Tubes font, Regular Narrow, Border 1, Formatted ###
-\e[1m                   \e[0m\e[1;92m╖                \e[0m
+\e[1m                   \e[0m\e[1;92m╓                \e[0m
 \e[1m╖                  \e[0m\e[1;92m║ ╔═╦═╗       ╖  \e[0m
 \e[1m║   °              \e[0m\e[1;92m║ ║ ║ ║ °     ║  \e[0m
 \e[1m║   ╖ ╔═╗ ╖ ╓ ╒╗╔╕ \e[0m\e[1;92m║ ║ ║ ║ ╖ ╔═╗ ╠╛ \e[0m
@@ -31,7 +31,7 @@
 \e[1;92m║\e[0m\e[1m ╚═╛ ╙ ╜ ╙ ╚═╝ ╘╝╚╛  \e[0m\e[1;92m╜ ╙ ║ ╙ ╜ ╙ ╨  ║\e[0m
 \e[1;92m╚═════════════════════════╝ ╘════════╝\e[0m
 ### Mint banner : Tubes font, Cursive Narrow, Border 1, Formatted ###
-\e[1m                  \e[0m\e[1;92m╖                \e[0m
+\e[1m                  \e[0m\e[1;92m╓                \e[0m
 \e[1m╖                 \e[0m\e[1;92m║ ╔═╦═╗       ╖  \e[0m
 \e[1m║  °              \e[0m\e[1;92m║ ║ ║ ║ °     ║  \e[0m
 \e[1m║  ╖ ╔═╗ ╖ ╓ ╒╗╔╕ \e[0m\e[1;92m║ ║ ║ ║ ╖ ╔═╗ ╠╛ \e[0m
