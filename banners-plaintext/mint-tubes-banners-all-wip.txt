@@ -38,7 +38,10 @@
 ║  ╖╔═╗╖ ╓╒╗╔╕  ║ ║ ║╖╔═╗╠╛ 
 ║  ║║ ║║ ║ ║║   ║ ║ ║║║ ║║  
 ╚═╛╙╜ ╙╚═╝╘╝╚╛  ╜ ╙ ╙╙╜ ╙╚╛ 
-### Narrow Regular Font, Border 1 ###
+
+
+
+### Mint banner : Tubes font, Regular Narrow, Border 1, Formatted ###
                    ╖                
 ╖                  ║ ╔═╦═╗       ╖  
 ║   °              ║ ║ ║ ║ °     ║  
@@ -46,7 +49,7 @@
 ║   ║ ║ ║ ║ ║  ║║  ║ ║ ║ ║ ║ ║ ║ ║  
 ╚═╛ ╙ ╜ ╙ ╚═╝ ╘╝╚╛ ║ ╜ ╙ ║ ╙ ╜ ╙ ╨  
                    ╚═════╝          
-### Narrow Regular Font, Border 2 ###
+### Mint banner : Tubes font, Regular Narrow, Border 2, Formatted ###
 ╓                                    
 ║ ╖                   ╔═╦═╗       ╖  
 ║ ║   °               ║ ║ ║ °     ║  
@@ -54,7 +57,7 @@
 ║ ║   ║ ║ ║ ║ ║  ║║   ║ ║ ║ ║ ║ ║ ║  
 ║ ╚═╛ ╙ ╜ ╙ ╚═╝ ╘╝╚╛  ╜ ╙ ║ ╙ ╜ ╙ ╨  
 ╚═════════════════════════╝          
-### Narrow Regular Font, Border 3 ###
+### Mint banner : Tubes font, Regular Narrow, Border 3, Formatted ###
 ╔════════════════════════════════════╗
 ║ ╖                   ╔═╦═╗       ╖  ║
 ║ ║   °               ║ ║ ║ °     ║  ║
@@ -62,7 +65,7 @@
 ║ ║   ║ ║ ║ ║ ║  ║║   ║ ║ ║ ║ ║ ║ ║  ║
 ║ ╚═╛ ╙ ╜ ╙ ╚═╝ ╘╝╚╛  ╜ ╙ ║ ╙ ╜ ╙ ╨  ║
 ╚═════════════════════════╝          ╜
-### Narrow Regular Font, Border 4 ###
+### Mint banner : Tubes font, Regular Narrow, Border 4, Formatted ###
 ╔════════════════════════════════════╗
 ║ ╖                   ╔═╦═╗       ╖  ║
 ║ ║   °               ║ ║ ║ °     ║  ║
@@ -70,7 +73,7 @@
 ║ ║   ║ ║ ║ ║ ║  ║║   ║ ║ ║ ║ ║ ║ ║  ║
 ║ ╚═╛ ╙ ╜ ╙ ╚═╝ ╘╝╚╛  ╜ ╙ ║ ╙ ╜ ╙ ╨  ║
 ╚═════════════════════════╝ ╘════════╝
-### Narrow Cursive Font, Border 1 ###
+### Mint banner : Tubes font, Cursive Narrow, Border 1, Formatted ###
                   ╖                
 ╖                 ║ ╔═╦═╗       ╖  
 ║  °              ║ ║ ║ ║ °     ║  
@@ -78,7 +81,7 @@
 ║  ║ ║ ║ ║ ║  ║║  ║ ║ ║ ║ ║ ║ ║ ║  
 ╚═╛╙─╜ ╙─╚═╩╛╘╝╚╛ ║ ╜ ╙ ║ ╙─╜ ╙─╨─ 
                   ╚═════╝          
-### Narrow Cursive Font, Border 2 ###
+### Mint banner : Tubes font, Cursive Narrow, Border 2, Formatted ###
 ╓                                   
 ║ ╖                  ╔═╦═╗       ╖  
 ║ ║  °               ║ ║ ║ °     ║  
@@ -86,7 +89,7 @@
 ║ ║  ║ ║ ║ ║ ║  ║║   ║ ║ ║ ║ ║ ║ ║  
 ║ ╚═╛╙─╜ ╙─╚═╩╛╘╝╚╛  ╜ ╙ ║ ╙─╜ ╙─╨─ 
 ╚════════════════════════╝          
-### Narrow Cursive Font, Border 3 ###
+### Mint banner : Tubes font, Cursive Narrow, Border 3, Formatted ###
 ╔═══════════════════════════════════╗
 ║ ╖                  ╔═╦═╗       ╖  ║
 ║ ║  °               ║ ║ ║ °     ║  ║
@@ -94,7 +97,7 @@
 ║ ║  ║ ║ ║ ║ ║  ║║   ║ ║ ║ ║ ║ ║ ║  ║
 ║ ╚═╛╙─╜ ╙─╚═╩╛╘╝╚╛  ╜ ╙ ║ ╙─╜ ╙─╨─ ║
 ╚════════════════════════╝          ╜
-### Narrow Cursive Font, Border 4 ###
+### Mint banner : Tubes font, Cursive Narrow, Border 4, Formatted ###
 ╔═══════════════════════════════════╗
 ║ ╖                  ╔═╦═╗       ╖  ║
 ║ ║  °               ║ ║ ║ °     ║  ║
@@ -102,3 +105,4 @@
 ║ ║  ║ ║ ║ ║ ║  ║║   ║ ║ ║ ║ ║ ║ ║  ║
 ║ ╚═╛╙─╜ ╙─╚═╩╛╘╝╚╛  ╜ ╙ ║ ╙─╜ ╙─╨─ ║
 ╚════════════════════════╝ ╘════════╝
+###
