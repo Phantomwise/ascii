@@ -1,0 +1,8 @@
+█ (U+2588, Decimal: 219, Hex: 0xDB) - Full Block
+▀ (U+2580, Decimal: 223, Hex: 0xDF) - Upper Half Block
+▄ (U+2584, Decimal: 220, Hex: 0xDC) - Lower Half Block
+▌ (U+258C, Decimal: 221, Hex: 0xDD) - Left Half Block
+▐ (U+2590, Decimal: 222, Hex: 0xDE) - Right Half Block
+░ (U+2591, Decimal: 176, Hex: 0xB0) - Light Shade
+▒ (U+2592, Decimal: 177, Hex: 0xB1) - Medium Shade
+▓ (U+2593, Decimal: 178, Hex: 0xB2) - Dark Shade
