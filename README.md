@@ -2,6 +2,8 @@
 
 ASCII art I made. CC0, feel free to use.
 
+- [Resources](#resources)
+
 - [Banners (Unformatted)](#banners-unformatted)
 - [Banners (Formatted)](#banners-formatted)
 - [Figlet fonts](#figlet-fonts)
@@ -11,6 +13,12 @@ Upcoming :
 - 🔜 *[Logos (Neofetch)](#logos-neofetch)*
 - ⏳ *[Logos (Fastfetch)](#logos-fastfetch)*
 - ⏳ *[Cowsays animals](#cowsays-animals)*
+
+## Resources
+
+- Guides
+- Reference lists/tables of ASCII and ANSI characters
+- Scripts to preview ASCII formatted with escape characters in the terminal
 
 ## Banners (Unformatted)
 
