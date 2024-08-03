@@ -4,8 +4,8 @@ More info on figlet here :
 https://github.com/cmatsuoka/figlet
 
 My fonts for figlet :
-- ✅ [Tubes Regular](#tubes-regular)
-- ✅ [Tubes Smushed](#tubes-smushed)
+- [Tubes Regular](#tubes-regular)
+- [Tubes Smushed](#tubes-smushed)
 
 
 ## Tubes Smushed
