@@ -1,11 +1,17 @@
-# Readme
+```
+╔═══╗              ╓            
+║   ║              ║            
+╠══╦╝ ╔══╗ ╒══╗ ╔══╣ ╔═╦═╗ ╔══╗ 
+║  ╚╗ ╠══╝ ╔══╣ ║  ║ ║ ║ ║ ╠══╝ 
+╜   ╙ ╚══╛ ╚══╝ ╚══╝ ╜ ╙ ╙ ╚══╛ 
+```
 
 ASCII art I made. CC0, feel free to use.
 
 - [Resources](#resources)
 
-- [Banners (Unformatted)](#banners-unformatted)
-- [Banners (Formatted)](#banners-formatted)
+- [ASCII art (Unformatted)](#ascii-art-unformatted)
+- [ASCII art (Formatted)](#ascii-art-formatted)
 - [Figlet fonts](#figlet-fonts)
 
 Upcoming :
@@ -17,14 +23,17 @@ Upcoming :
 ## Resources
 
 - Guides
-- Reference lists/tables of ASCII and ANSI characters
-- Scripts to preview ASCII formatted with escape characters in the terminal
+    - [Using ANSI escape codes to format text](https://github.com/Phantomwise/ascii/blob/main/Resources/ANSI-escape-codes.md)
+- Reference lists/tables of characters and escape codes (incomplete)
+- Scripts to preview ASCII formatted with escape characters in the terminal (made by chatGPT because I suck at coding)
+    - [bash version](https://github.com/Phantomwise/ascii/blob/main/Resources/preview-ANSI-formatting.sh)
+    - [python version](https://github.com/Phantomwise/ascii/blob/main/Resources/preview-ANSI-formatting.py)
 
-## Banners (Unformatted)
+## ASCII art (Unformatted)
 
 Plain text unformatted ASCII banners.
 
-## Banners (Formatted)
+## ASCII art (Formatted)
 
 ASCII banners formatted with ANSI escape characters.
 
